@@ -13,4 +13,3 @@ The available endpoints are:
     /blogs/new
     /posts/<string:blog_id>
     /posts/new/<string:blog_id>
-
