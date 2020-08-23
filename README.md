@@ -1,4 +1,4 @@
-# _python_web_blog
+# python_web_blog
 This is a simple web-based blog.
 Used:  Flask, HTML, CSS, Bootstrap, Jinja2
 
